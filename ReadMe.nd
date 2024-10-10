@@ -1,0 +1,30 @@
+Features
+Admin Login: Administrators can securely log in to the system using their credentials.
+Client Details Management: The system collects and manages client information such as ID, name, contact details, and home address.
+Mortgage Eligibility Check: Determines if a client meets the financial criteria for obtaining a mortgage.
+Monthly Installment Calculation: Calculates the monthly repayment amount for a mortgage based on the loan amount and interest rate.
+Data Persistence: Client details and mortgage information are stored in text files for future reference and auditing.
+Classes and Functions
+user_details Class
+The user_details class manages all user-related operations, including setting and retrieving user details, administering login functionality, verifying salary information, checking mortgage eligibility, and saving mortgage amounts.
+
+Functions:
+Setter Functions: Methods for setting various user details such as ID, name, phone number, email, and home address.
+Getter Functions: Methods to retrieve user details.
+Admin Login Function: Validates administrator credentials to grant access to the system.
+Salary Verification Function: Verifies the client's salary to ensure accuracy and eligibility for a mortgage.
+Eligibility Check Function: Determines if the client meets the financial criteria for obtaining a mortgage.
+Save Mortgage Amount Function: Saves the requested mortgage amount for auditing and processing.
+Set User Details Function: Facilitates the collection of user details and ensures data integrity through validation.
+Validate User Details Function: Verifies that all required user details are provided and meet validation criteria.
+Mortgage_Account Class
+The Mortgage_Account class manages mortgage-related functions, primarily the calculation of monthly installments based on the loan amount and interest rate.
+
+Functions:
+Monthly Installment Function: Calculates the monthly repayment amount for a mortgage using a predefined formula based on the loan amount and interest rate.
+main() Function
+The main() function serves as the entry point for the program, orchestrating the flow of operations by invoking functions from the user_details and Mortgage_Account classes based on user input.
+
+Header Files
+current_account.h: Contains class declarations for user_details and Mortgage_Account, encapsulating their respective functionalities.
+Usage

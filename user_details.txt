@@ -1,0 +1,11 @@
+12345,Micheal,Jackson,07446123456,michealjackson@gmai.com,15 Homstead road,Coventry,England,CO1 NH2,
+17021,Miccheal,Jordan,07436388482,michealjordan@gmail.com,28 Galleli Avenue, Wilford,England,WF3 MF3,
+08061,Kanye, West,03784792578, Kanyeowest@gmail.com, 76 Donda road,Manchester,England,MC9 OM9,
+17091,Marshall,Mathers,08473829183,marshallbmathers@gmail.com, 08 Detriote road,Manchester,England,MC7 BR6,
+12111,Taylor,Swift,06543219876,taylorswift@example.com,45 Redwood Lane,Bedford,England,BE9 MG0,
+11051,Beyoncé,Knowles,07654321098,beyonceknowles@example.com,321 Formation Avenue,Manchester,England,M1 1AA,
+22081,Justin,Bieber,05432109786,justinbieber@example.com,789 Belieber Boulevard,Birmingham,England,B1 1AA,
+14021,Rihanna,Fenty,04321567890,rihannafenty@example.com,456 Umbrella Road,Liverpool,England,L1 1AA,
+27071,Adele,Adkins,06543210987,adeleadkins@example.com,987 Rolling in the Deep Drive,Leeds,England,LS1 1AA,
+09101,Drake,Graham,07654321890,drakegraham@example.com,123 Started From the Bottom Street,Sheffield,England,S1 1AA,
+
